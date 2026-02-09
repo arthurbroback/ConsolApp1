@@ -1,12 +1,10 @@
-# DATAINSAMLING:
+# DATAHANTERING:
 
-JSON fil = kan hämta information från?
+JSON fil = 
 
 Sitemap = kan hämta information från?
 
 sip -> zip -> zip
-
-----------------------------
 
 # MUST HAVE:
 
@@ -23,8 +21,6 @@ Levererande myndighet (OBLIGATORISK)
 Arkivets namn (OBLIGATORISK)
 
 Systemets namn (OBLIGATORISK)
-
-----------------------------s
 
 # CAN HAVE:
 
@@ -43,8 +39,6 @@ Kontaktperson för leverans (EJ OBLIGATORISK)
 Servicebyrå/konsult (EJ OBLIGATORISK)
 
 Organisationsnummer myndighet (EJ OBLIGATORISK)
-
-----------------------------
 
 # RAPPORTSTRUKTUR:
 
@@ -88,8 +82,6 @@ Accessions-ID (FYLLS AV RIKSARKIVET)
 
 Batch-ID (FYLLS AV RIKSARKIVET)
 
-----------------------------
-
 # FILSTRUKTUR:
 
 Metadata.xlsx
@@ -100,15 +92,11 @@ Json.ecsession
 
 Sitemap (skapas av conserver)
 
-----------------------------
-
 # BEGREPP:
 
 Metadata = information om datan
 
 TLV = tandvårds och läkemedelsverket?
-
-----------------------------
 
 # ÖVRIG INFORMATION:
 
