@@ -83,3 +83,4 @@ HEJ.TXT och hej.txt = samma
 Kontaktperson ska helst ha titel. Exempelvis Joar McFlurry (KONUNG)
 Gäller endast frysta webbplatser (EJ singlefile/WARC)
 Varje fil = en rad (index.html, script.js, style.css osv)
+Uppsala universitet och riksdagen är beställare
