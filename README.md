@@ -146,7 +146,7 @@ Kontaktperson för leverans = Carl XVI Gustaf (Kung)
 
 Telefonnummer till kontaktperson = 012-345678 (Arkivarie), 08-9876543 (Konsult)
 
-E-post-adress till kontaktperson = förnamn.efternamnsson@gmail.com
+E-post-adress till kontaktperson = fornamn.efternamnsson@gmail.com
 
 Kostnadsställe = 1234567
 
