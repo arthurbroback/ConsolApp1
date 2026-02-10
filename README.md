@@ -115,3 +115,127 @@ Gäller endast frysta webbplatser (EJ singlefile/WARC)
 Varje fil = en rad (index.html, script.js, style.css osv)
 
 Uppsala universitet och riksdagen är beställare
+
+# RAPPORTSTRUKTUR 1 (MUST HAVE)
+
+Flik 1:
+
+Riksarkivets diarienummer leveransöverenskommelse (LEVERERAS TOM. FYLLS I AV RIKSARKIVET)
+
+Riksarkivets diarienummer leverans (LEVERERAS TOM. FYLLS I AV RIKSARKIVET)
+
+Beskrivning av leveransen = Leverans avställning av extern webbsida 2025.
+
+Arkivbildare = Exempelmyndigheten
+
+Organisationsnummer arkivbildare = 123456-7890
+
+Levererande myndighet = Exempelverket
+
+Arkivets namn = Exempelmyndighetens arkiv
+
+Systemets namn = Exempelmyndighetens extern webbsida
+
+Kommentar = ..................................
+
+Projektkod (LEVERERAS TOM. FYLLS I AV RIKSARKIVET)
+
+Accessions-ID (LEVERERAS TOM. FYLLS I AV RIKSARKIVET)
+
+Batch-ID (LEVERERAS TOM. FYLLS I AV RIKSARKIVET)
+
+--------------------------------------------------
+
+Flik 2:
+
+Filnamn = index.html
+
+Filtyp = html/xml/css/xsl/xsd/dtd/txt/png/jpg/gif osv
+
+Filtypsversion = 1b
+
+Storlek = 12345
+
+Teckenuppsättning = UTF-8
+
+Speltid = 00:23:10
+
+Sökväg = root\bilder
+
+Sekretessgrad hos myndigheten = personsekretess
+
+--------------------------------------------------
+
+Flik 3:
+
+# RAPPORTSTRUKTUR 2 (MUST HAVE + CAN HAVE)
+
+Flik 1 (allmänt):
+
+Riksarkivets diarienummer leveransöverenskommelse = LEVERERAS TOM. (FYLLS I AV RIKSARKIVET)
+
+Riksarkivets diarienummer leverans = LEVERERAS TOM. (FYLLS I AV RIKSARKIVET)
+
+Beskrivning av leveransen = Leverans avställning av extern webbsida 2025.
+
+Arkivbildare = Exempelmyndigheten
+
+Organisationsnummer arkivbildare = 123456-7890
+
+Levererande myndighet = Exempelverket
+
+Organisationsnummer levererande myndighet = 123456-7890
+
+Servicebyrå/Konsult = ABC-data
+
+Kontaktperson för leverans = Carl XVI Gustaf (Kung)
+
+Telefonnummer till kontaktperson = 012-345678 (Arkivarie), 08-9876543 (Konsult)
+
+E-post-adress till kontaktperson = förnamn.efternamnsson@gmail.com
+
+Kostnadsställe = 1234567
+
+Kontaktperson för e-fakturering = Evelina Exempelsson (Ekonom)
+
+Arkivets namn = Exempelmyndighetens arkiv
+
+Systemets namn = Exempelmyndighetens extern webbsida
+
+Uttagsdatum = 2025-01-01
+
+Kommentar = ..................................
+
+Projektkod = LEVERERAS TOM. (FYLLS I AV RIKSARKIVET)
+
+Accessions-ID = LEVERERAS TOM. (FYLLS I AV RIKSARKIVET)
+
+Batch-ID = LEVERERAS TOM. (FYLLS I AV RIKSARKIVET)
+
+--------------------------------------------------
+
+Flik 2:
+
+Filnamn = index.html
+
+Filtyp = html/xml/css/xsl/xsd/dtd/txt/png/jpg/gif osv
+
+Filtypsversion = 1b
+
+Storlek = 12345
+
+Teckenuppsättning = UTF-8
+
+Speltid = 00:23:10
+
+Sökväg = root\bilder
+
+Sekretessgrad hos myndigheten = personsekretess
+
+Behandling av personuppgifter = Ja
+
+Kommentar = startsida för webbsidan
+
+--------------------------------------------------
+
+Flik 3:
