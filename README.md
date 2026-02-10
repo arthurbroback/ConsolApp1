@@ -112,7 +112,7 @@ Flik 2:
 
 Filnamn = index.html
 
-Filtyp = 
+Filtyp = html/xml/xsl/xsd/dtd/txt/png/jpg/tiff osv
 
 Filtypsversion = 1b
 
@@ -176,7 +176,7 @@ Flik 2:
 
 Filnamn = index.html
 
-Filtyp = html/xml/css/xsl/xsd/dtd/txt/png/jpg/gif osv
+Filtyp = html/xml/xsl/xsd/dtd/txt/png/jpg/tiff osv
 
 Filtypsversion = 1b
 
