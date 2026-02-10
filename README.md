@@ -6,7 +6,7 @@ Sitemap = kan hämta information från?
 
 Sip -> zip -> zip
 
-Nuget för att omvandla sip/mets till excelark
+NuGet för att omvandla sip/mets till excelark
 
 # MUST HAVE:
 
@@ -164,10 +164,6 @@ Sökväg = root\bilder
 
 Sekretessgrad hos myndigheten = personsekretess
 
---------------------------------------------------
-
-Flik 3:
-
 # RAPPORTSTRUKTUR 2 (MUST HAVE + CAN HAVE)
 
 Flik 1 (allmänt):
@@ -239,3 +235,5 @@ Kommentar = startsida för webbsidan
 --------------------------------------------------
 
 Flik 3:
+
+ERROR OM NÅGOT INTE KOM FRAM(???????)
