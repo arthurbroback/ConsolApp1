@@ -64,13 +64,13 @@ Kommentar (EJ OBLIGATORISK)
 
 # FILSTRUKTUR:
 
-Metadata.xlsx
-
-Program.cs
-
-Json.ecsession
-
-Sitemap (skapas av conserver)
+Eplicta.Conserver.Cli
+   Eplicta.Conserver.Cli.slnx
+   Eplicta.Conserver.Cli
+      Eplicta.Conserver.Cli.csproj
+      Program.cs
+.gitignore
+README.md
 
 # BEGREPP:
 
