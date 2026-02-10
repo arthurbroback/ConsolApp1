@@ -64,13 +64,13 @@ Kommentar (EJ OBLIGATORISK)
 
 # FILSTRUKTUR:
 
-Eplicta.Conserver.Cli
-   Eplicta.Conserver.Cli.slnx
-   Eplicta.Conserver.Cli
-      Eplicta.Conserver.Cli.csproj
-      Program.cs
-.gitignore
-README.md
+Eplicta.Conserver.Cli/
+├── Eplicta.Conserver.Cli.slnx
+├── Eplicta.Conserver.Cli/
+│   ├── Eplicta.Conserver.Cli.csproj
+│   └── Program.cs
+├── .gitignore
+└── README.md
 
 # BEGREPP:
 
