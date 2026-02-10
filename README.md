@@ -12,6 +12,8 @@ NuGet för att omvandla sip/mets till excelark
 
 Excelark med information (FLIK 1 OCH FLIK 2)
 
+Program som blockerar otillåtna filer???
+
 Beskrivning av leveransen (OBLIGATORISK)
 
 Arkivbildare (OBLIGATORISK)
