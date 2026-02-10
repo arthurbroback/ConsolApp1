@@ -1,10 +1,12 @@
 # DATAHANTERING:
 
-JSON fil = 
+JSON fil 
 
 Sitemap = kan hämta information från?
 
-sip -> zip -> zip
+Sip -> zip -> zip
+
+Nuget för att omvandla sip/mets till excelark
 
 # MUST HAVE:
 
