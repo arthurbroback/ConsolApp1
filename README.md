@@ -42,53 +42,11 @@ Servicebyrå/konsult (EJ OBLIGATORISK)
 
 Organisationsnummer myndighet (EJ OBLIGATORISK)
 
-# RAPPORTSTRUKTUR:
-
-Riksarkivets diarienummer leveransöverenskommelse (FYLLS AV RIKSARKIVET)
-
-Riksarkivets diarienummer leverans (FYLLS AV RIKSARKIVET)
-
-Beskrivning av leveransen
-
-Arkivbildare
-
-Organisationsnummer arkivbildare
-
-Levererande myndighet
-
-Organisationsnummer levererande myndighet (?????)
-
-Servicebyrå/Konsult (?????)
-
-Kontaktperson för leverans (?????)
-
-Telefonnummer till kontaktperson (?????)
-
-E-post-adress till kontaktperson (?????)
-
-Kostnadsställe (?????)
-
-Kontaktperson för e-fakturering (?????)
-
-Arkivets namn
-
-Systemets namn
-
-Uttagsdatum (?????)
-
-Kommentar
-
-Projektkod (FYLLS AV RIKSARKIVET)
-
-Accessions-ID (FYLLS AV RIKSARKIVET)
-
-Batch-ID (FYLLS AV RIKSARKIVET)
-
 # FILSTRUKTUR:
 
 Metadata.xlsx
 
-Error.js
+Program.cs
 
 Json.ecsession
 
