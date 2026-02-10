@@ -10,7 +10,7 @@ NuGet för att omvandla sip/mets till excelark
 
 # MUST HAVE:
 
-Excelark med information 
+Excelark med information (FLIK 1 OCH FLIK 2)
 
 Beskrivning av leveransen (OBLIGATORISK)
 
@@ -23,6 +23,22 @@ Levererande myndighet (OBLIGATORISK)
 Arkivets namn (OBLIGATORISK)
 
 Systemets namn (OBLIGATORISK)
+
+Filnamn (OBLIGATORISK)
+
+Filtyp (OBLIGATORISK)
+
+Filtypsversion (OBLIGATORISK)
+
+Storlek (OBLIGATORISK)
+
+Teckenuppsättning (OBLIGATORISK)
+
+Speltid (OBLIGATORISK FÖR VIDEOFILER OCH LJUDFILER)
+
+Sökväg (OBLIGATORISK)
+
+Sekretessgrad hos myndigheten (OBLIGATORISKT FÖR SEKRETESSBELAGDA UPPGIFTER) 
 
 # CAN HAVE:
 
@@ -41,6 +57,10 @@ Kontaktperson för leverans (EJ OBLIGATORISK)
 Servicebyrå/konsult (EJ OBLIGATORISK)
 
 Organisationsnummer myndighet (EJ OBLIGATORISK)
+
+Behandling av personuppgifter (EJ OBLIGATORISK)
+
+Kommentar (EJ OBLIGATORISK)
 
 # FILSTRUKTUR:
 
