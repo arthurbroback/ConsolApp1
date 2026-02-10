@@ -80,12 +80,6 @@ Eplicta.Conserver.Cli/
 
 └── README.md
 
-# BEGREPP:
-
-Metadata = information om datan
-
-TLV = tandvårds och läkemedelsverket?
-
 # RAPPORTSTRUKTUR 1 (MUST HAVE)
 
 Flik 1:
@@ -296,3 +290,5 @@ Godkända format för filer som bifogas leveransen ska levereras i enlighet
 med Riksarkivets krav, se RA-FS 2009:2, 3 kap. Tekniska krav
 
 Kan gå att arkivera otillåtna filer fast det kräver särskilt godkännande från riksarkivet (ORELEVANT?)
+
+Metadata = information om datan
