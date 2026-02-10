@@ -209,37 +209,69 @@ ERROR OM NÅGOT INTE KOM FRAM(???????)
 # TILLÅTNA FILFORMAT ENLIGT RA-FS 2009:2, 3 KAP. TEKNISKA KRAV
 
 html/htm
+
 xhtml
+
 xml
+
 css
+
 xsl
+
 xsd
+
 dtd
+
 JavaScript
+
 txt
+
 SGML
+
 Sekventiella filer med fast fält- och postlängd
+
 Sekventiella filer med teckenseparerade fält
+
 XML
+
 PDF/A-1 (ISO 19005-1:2005)
+
 JPEG/jpg
+
 TIFF
+
 PNG
+
 PDF/A-1 (för skannade bilder)
+
 WAVE
+
 WMA
+
 OggVorbis
+
 MP3
+
 WMV
+
 MPEG
+
 AVI
+
 GML (SS-ISO 19136:2007)
+
 PDF/E-1 (ISO 24517-1:2008)
+
 CALS Raster File Format (för rasterformat)
+
 Databas/register-format
+
 Strukturerade dokument (XML)
+
 Kontorsdokument (PDF/A-1)
+
 PKCS #7
+
 XML-signatures
 
 # ÖVRIG INFORMATION:
@@ -260,3 +292,5 @@ Uppsala universitet, riksdagen mfl är beställare
 
 Godkända format för filer som bifogas leveransen ska levereras i enlighet
 med Riksarkivets krav, se RA-FS 2009:2, 3 kap. Tekniska krav
+
+Kan gå att arkivera otillåtna filer fast det kräver särskilt godkännande från riksarkivet (ORELEVANT?)
