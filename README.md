@@ -58,22 +58,6 @@ Metadata = information om datan
 
 TLV = tandvårds och läkemedelsverket?
 
-# ÖVRIG INFORMATION:
-
-ÅÅÅÅ-MM-DD
-
-Exempel på korrekt skrivning = 101344
-
-HEJ.TXT och hej.txt = samma 
-
-Kontaktperson ska helst ha titel. Exempelvis Joar McFlurry (KONUNG)
-
-Gäller endast frysta webbplatser (EJ singlefile/WARC)
-
-Varje fil = en rad (index.html, script.js, style.css osv)
-
-Uppsala universitet och riksdagen är beställare
-
 # RAPPORTSTRUKTUR 1 (MUST HAVE)
 
 Flik 1:
@@ -195,3 +179,22 @@ Kommentar = startsida för webbsidan
 Flik 3:
 
 ERROR OM NÅGOT INTE KOM FRAM(???????)
+
+# ÖVRIG INFORMATION:
+
+ÅÅÅÅ-MM-DD
+
+Exempel på korrekt skrivning = 101344
+
+HEJ.TXT och hej.txt = samma 
+
+Kontaktperson ska helst ha titel. Exempelvis Joar McFlurry (KONUNG)
+
+Gäller endast frysta webbplatser (EJ singlefile/WARC)
+
+Varje fil = en rad (index.html, script.js, style.css osv)
+
+Uppsala universitet, riksdagen mfl är beställare
+
+Godkända format för filer som bifogas leveransen ska levereras i enlighet
+med Riksarkivets krav, se RA-FS 2009:2, 3 kap. Tekniska krav
